@@ -20,7 +20,7 @@ Il messaggio deve essere inviato dalla mail istituzionale del referente del grup
 
 #### Email di esempio
 
-|||
+| Campo | Testo |
 |-|-|
 | Oggetto: | GRUPPO LSO |
 | Nome Gruppo: | NOME MOLTO BELLO |
@@ -37,7 +37,7 @@ elettronica un messaggio con oggetto **CERCO GRUPPO LSO**, specificando:
 
 ### Email di esempio con oggetto \textbf{CERCO GRUPPO LSO}]
 
-|||
+| Campo | Testo |
 |-|-|
 | Oggetto: | CERCO GRUPPO LSO |
 | Componenti: | Annio Ennio, 123456 |
