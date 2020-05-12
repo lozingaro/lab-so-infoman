@@ -22,10 +22,6 @@ git clone https://github.com/szingaro/lab-so-project-2020
 - OpenJDK Runtime Environment (build 13+33)
 - Jolie 1.9.0 (C) 2006-2020 the Jolie team
 
-### Autori
-
-- [@szingaro](https://github.com/szingaro)
-
 ### Licenza
 
 Il progetto è rilasciato con licenza GNU v3; per maggiori dettagli consultare il file [LICENSE](LICENSE).
