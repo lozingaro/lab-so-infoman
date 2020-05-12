@@ -24,8 +24,7 @@ Il messaggio deve essere inviato dalla mail istituzionale del referente del grup
 |-|-|
 | Oggetto: | GRUPPO LSO |
 | Nome Gruppo: | NOME MOLTO BELLO |
-| Componenti: | |
-| |  Annio Ennio, 123456 |
+| Componenti: | Annio Ennio, 123456 |
 | | Sinalefe Pina, 234567 |
 | | Pannocchia Anna, 345678 |
 | Mail Referente: | anna.pannocchia@studio.unibo.it |
@@ -36,12 +35,15 @@ elettronica un messaggio con oggetto **CERCO GRUPPO LSO**, specificando:
 - Cognome, Nome, Matricola, Email;
 - Eventuali preferenze legate a tempi di lavoro (si cercherà di costituire gruppi di persone con tempi di lavoro compatibili, nel limite delle possibilità).
 
-\begin{tcolorbox}[colback=green!20!white,colframe=green!75!black,title=Email di esempio con oggetto \textbf{CERCO GRUPPO LSO}]
- \textit{Sinalefe Pina, 234567, preferirei nei pressi del dipartimento, tutti i giorni dopo pranzo.}
-\end{tcolorbox}
+### Email di esempio con oggetto \textbf{CERCO GRUPPO LSO}]
 
-Le persone senza un gruppo vengono assegnate il prima possibile senza
-possibilità di ulteriori modifiche.
+|||
+|-|-|
+| Oggetto: | CERCO GRUPPO LSO |
+| Componenti: | Annio Ennio, 123456 |
+| Preferenze | A causa di lavoro full-time (in allegato autocertificazione) sono disponibile solo di sera e nei weekend. |
+
+Le persone senza un gruppo vengono assegnate il prima possibile senza possibilità di ulteriori modifiche.
 
 ## Calendario per la consegna
 
