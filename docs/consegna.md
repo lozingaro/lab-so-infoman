@@ -42,8 +42,8 @@ La valutazione della documentazione verte sull'analisi dello scritto e sulla sua
 
 In particolare la griglia di valutazione usata è la seguente:
 
-|||
-|-|-|-|
+| Criterio | Descrizione |
+|---|---|
 | **Qualità dell'informazione** | Riconoscimento dei problemi (di concorrenza) e loro descrizione |
 | **Uso degli esempi** | Presenza di almeno un esempio in tutte le scelte implementative |
 | **Analisi delle scelte implementative** | Descrizione  della propria scelta implementativa e presenza di proposte di alternative valide |
@@ -82,8 +82,8 @@ La valutazione dell'implementazione del sistema si basa sull'analisi del codice 
 
 In particolare la griglia di valutazione usata è la seguente:
 
-|||
-|-|-|-|
+| Criterio | Descrizione |
+|---|---|
 | **Uso dei costrutti di Jolie** | Corretto utilizzo dei costrutti per la gestione della concorrenza, uso corretto di `execution(...)` |
 | **Distribuzione del carico di lavoro nel gruppo** | Omogeneità nella ripartizione dei compiti nel gruppo, ogni membro partecipa egualmente allo sviluppo indicando il singolo contributo, assenza di dissimmetria di informazione. |
 | **Grado di partecipazione alla comunità** | Presenza di domande e risposte significative sui canali di comunicazione offerti dal corso, richieste di ricevimento e delucidazioni, bug fixing del materiale messo a disposizione del docente e dalla comunità _open source_ di Jolie |
