@@ -3,12 +3,6 @@
 
 In questo spazio sono conservati contenuti utili per la documentazione del progetto del corso di Sistemi Operativi per la Laurea Triennale in Informatica per il management dell'Università di Bologna, anno accademico 2019-2020.
 
-I contenuti di questo spazio che riguardano il progetto, sono:
-1. [Alcune informazioni logistiche utili](docs/logistica.md)
-2. [Una descrizione delle componenti del sistema da sviluppare](docs/progetto.md)
-3. [Le informazioni sulle modalità di consegna dei materiali](docs/consegna.md)
-
-
 ### Getting Started
 
 In generale, non è necessario usare il contenuto ma solo leggerne le informazioni. 
