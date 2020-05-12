@@ -1,0 +1,56 @@
+\usepackage{graphicx}
+\graphicspath{ {./img/} }
+
+\usepackage{xcolor}
+\usepackage{listings}
+
+\definecolor{orange}{HTML}{CB4B16}
+\definecolor{amber}{rgb}{1.0, 0.75, 0.0}
+\definecolor{applegreen}{rgb}{0.55, 0.71, 0.0}
+\definecolor{mercurio}{HTML}{93A1A1}
+\definecolor{magenta}{HTML}{D33682}
+\definecolor{cyan}{HTML}{2AA198}
+\definecolor{cayenna}{rgb}{0.53,0.05,0.05}
+\definecolor{cream}{HTML}{FDF6E3}
+\definecolor{royalblue}{HTML}{006bb3}
+\definecolor{forestgreen}{HTML}{006638}
+\definecolor{pinegreen}{HTML}{004d3e}
+
+\lstset{
+  sensitive=true,
+  frame=none,
+  xleftmargin=\parindent,
+  aboveskip=\bigskipamount,
+  belowskip=\bigskipamount,
+  backgroundcolor=\color{cream},
+  basicstyle=\ttfamily\color{black}\footnotesize,
+  keywordstyle=\bfseries\color{cayenna},
+  commentstyle=\small\color{mercurio},
+  stringstyle=\color{magenta},
+  numbersep=1.5pt,
+  numbers=left,
+  numberstyle=\color{cyan},
+  identifierstyle=\color{black},
+  breaklines=true,
+  showstringspaces=false,
+  extendedchars=true,
+  tabsize=2,
+  upquote=true,
+  captionpos=b,
+  literate=
+    {:}{{{\bfseries\color{black}{:}}}}{1}
+    {,}{{{\bfseries\color{black}{,}}}}{1}
+    {\{}{{{\bfseries\color{cayenna}{\{}}}}{1}
+    {\}}{{{\bfseries\color{cayenna}{\}}}}}{1}
+    {[}{{{\bfseries\color{blue}{[}}}}{1}
+    {]}{{{\bfseries\color{blue}{]}}}}{1}
+}
+
+\lstdefinelanguage{jolie}{
+  morekeywords={csets,type,raw,any,undefined,void,default,if,for,while,spawn,foreach,else,define,main,include,constants,inputPort,outputPort,interface,execution,cset,nullProcess,RequestResponse,OneWay,throw,throws,install,scope,embedded,init,synchronized,global,is_defined,is_int,is_bool,is_long,is_string,bool,long,int,string,double,undef,with,Location,Protocol,Interfaces,Aggregates,Redirects,linkIn,linkOut,_,||,undef,match,unwind,project,group,lookup,is_defined,exists},
+	sensitive=true,
+	morecomment=[l]{//},
+	morecomment=[s]{/*}{*/},
+	morestring=[b]",
+  otherkeywords={;,|,@,\&\&,==,>,<,!,-,*,+}
+}
