@@ -9,10 +9,10 @@ Viene inoltre proposto un calendario per la consegna dell'implementazione e del 
 Tali informazioni sono soggette a cambiamenti ed a revisioni, ogni modifica viene comunicata attraverso la bacheca di annunci ufficiale del corso su [iol.unibo.it](https://iol.unibo.it/course/view.php?id=53786) ed il [forum ufficiale
 del corso](https://groups.google.com/forum/#!forum/infoman-so). 
 
-In ogni momento e compatibilmente con la disponibilità dei docenti, è possibile prenotare un ricevimento - in modalità virtuale sulla piattaforma Teams - via messaggio di posta elettronica, specificandone la motivazione, [all'indirzzo email del tutor](mailto:stefanopio.zingaro@unibo.it).
+In ogni momento e compatibilmente con la disponibilità dei docenti, è possibile prenotare un ricevimento - in modalità virtuale sulla piattaforma Teams - via messaggio di posta elettronica, specificandone la motivazione, [all'indirizzo email del tutor](mailto:stefanopio.zingaro@unibo.it).
 
 ## Formazione dei gruppi
-I gruppi sono costituiti da un minimo di quattro ($4$) ad un massimo di cinque persone ($5$), coloro che intendono partecipare all'esame comunicano entro e non oltre il **31 Maggio 2020** la composizione del gruppo di lavoro, **via posta elettronica**, al tutor. 
+I gruppi sono costituiti da un minimo di quattro (4) ad un massimo di cinque persone (5), coloro che intendono partecipare all'esame comunicano entro e non oltre il **31 Maggio 2020** la composizione del gruppo di lavoro, **via posta elettronica**, al tutor. 
 Il messaggio deve essere inviato dalla propria mail istituzionale `@studio.unibo.it`, ha come oggetto **GRUPPO LSO** e contiene:
 
 1. Il nome del gruppo;
