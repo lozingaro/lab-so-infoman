@@ -31,6 +31,7 @@ Email di esempio:
 | Componenti: | Annio Ennio, 123456 |
 | | Sinalefe Pina, 234567 |
 | | Pannocchia Anna, 345678 |
+| | ... |
 | Mail Referente: | anna.pannocchia@studio.unibo.it |
 
 Chi non riuscisse a trovare un gruppo invia allo stesso indirizzo di posta
