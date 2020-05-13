@@ -1,3 +1,5 @@
+[Torna indetro all'indice](../README.md)
+
 - [Formazione dei gruppi](#formazione-dei-gruppi)
 - [Calendario per la consegna](#calendario-per-la-consegna)
 - [Calendario per l'esame orale](#calendario-per-lesame-orale)
