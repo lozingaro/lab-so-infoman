@@ -7,7 +7,7 @@ I contenuti di questo spazio che riguardano il progetto, sono:
 2. [Una descrizione delle componenti del sistema da sviluppare](docs/progetto.md)
 3. [Le informazioni sulle modalità di consegna dei materiali](docs/consegna.md)
 
-La versione `PDF` di questa documentazione è disponibile [a questo link](docs/tex/out/main.pdf).
+La versione `PDF` di questa documentazione è disponibile [a questo link](docs/main.pdf).
 
 ### Getting Started
 

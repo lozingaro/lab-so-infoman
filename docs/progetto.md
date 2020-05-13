@@ -38,7 +38,7 @@ Nella seconda modalità - la scrittura su chat pubblica - il sistema garantisce 
 ### Messaggi privati cifrati
 Alice e Bob vogliono comunicare - in privato - scambiandosi messaggi l'uno con l'altra, per farlo in sicurezza hanno deciso di usare un protocollo di crittografia asimmetrica:
 
-![crittografia asimmetrica](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Crittografia_asimmetrica_schema.png/310px-Crittografia_asimmetrica_schema.png)
+![crittografia asimmetrica](assets/310px-Crittografia_asimmetrica_schema.png)
 
 1. Bob cripta il messaggio con la chiave pubblica di Alice;
 2. Alice decripta il messaggio di Bob con la sua chiave Privata.
@@ -48,7 +48,7 @@ Ovviamente, nel caso in cui sia Alice a voler inviare un messaggio a Bob, ella e
 ### Canali pubblici con messaggi firmati
 Alice ha bisogno di comunicare ad un gruppo di persone un qualche messaggio e decide di farlo apponendo una firma "digitale" al suo messaggio cosicchè tutto i destinatari possano controllare che nessun altro ha cambiato il contenuto di quello che Alice voleva comunicare e che è stata proprio lei, e non un altro, a scrivere il messaggio.
 
-![firma digitale asimmetrica](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Illustration_of_digital_signature.svg/220px-Illustration_of_digital_signature.svg.png)
+![firma digitale asimmetrica](assets/220px-Illustration_of_digital_signature.svg.png)
 
 1. Alice crea una cosidetta impronta del suo messaggio, applicando una funzione di _hash_ ad esso e producendo una stringa
 2. Alice cifra il risultato dell'hash con la sua chiave privata, il risultato dell codifica è la firma digitale di Alice per quel messaggio 
