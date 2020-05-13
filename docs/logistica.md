@@ -12,7 +12,6 @@ del corso](https://groups.google.com/forum/#!forum/infoman-so).
 In ogni momento e compatibilmente con la disponibilità dei docenti, è possibile prenotare un ricevimento - in modalità virtuale sulla piattaforma Teams - via messaggio di posta elettronica, specificandone la motivazione, [all'indirzzo email del tutor](mailto:stefanopio.zingaro@unibo.it).
 
 ## Formazione dei gruppi
-
 I gruppi sono costituiti da un minimo di quattro (4) ad un massimo di cinque persone (5), coloro che intendono partecipare all'esame comunicano entro e non oltre il **31 Maggio 2020** (pena esclusione dall'esame) la composizione del gruppo di lavoro, **via posta elettronica**, al tutor. 
 Il messaggio deve essere inviato dalla mail istituzionale del referente del gruppo, ha come oggetto **GRUPPO LSO** e contiene:
 
@@ -51,7 +50,6 @@ Email di esempio:
 Le persone senza un gruppo vengono assegnate il prima possibile senza possibilità di ulteriori modifiche.
 
 ## Calendario per la consegna
-
 Le date a disposizione per la consegna dell'implementazione e del report, sono:
 
 - le 23.59.59 di **Lunedí 27 Luglio 2020**;
@@ -60,7 +58,6 @@ Le date a disposizione per la consegna dell'implementazione e del report, sono:
 La data presa in considerazione per la consegna della parte di implementazione sarà quella di creazione del **Tag** su [GitLab](https://gitlab.com) le istruzioni sulla consegna si trovano nelle [specifiche per la consegna](consegna.md). 
 
 ## Calendario per l'esame orale
-
 Solo in seguito alle consegne, vengono fissate data ed orario della discussione (notificate alla mail del referente), **entro una settimana dalla data di consegna**.
 
 La discussione dell'implementazione e la demo di funzionamento vengono effettuate in un incontro _virtuale_ con tutti i componenti.
