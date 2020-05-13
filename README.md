@@ -14,7 +14,7 @@ In generale, non è necessario usare il contenuto ma solo leggerne le informazio
 In ogni caso è possibile scaricare oppure clonare il codice con il comando `git`:
 
 ```bash
-git clone https://github.com/szingaro/lab-so-project-2020
+git clone https://github.com/szingaro/lab-so-infoman
 ```
 
 ### Build with
