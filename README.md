@@ -1,5 +1,4 @@
-# Documentazione del progetto
-## Anno Accademico 2019/2020
+# Documentazione del progetto (AA 19/20)
 
 In questo spazio sono conservati contenuti utili per la documentazione del progetto del corso di Sistemi Operativi per la Laurea Triennale in Informatica per il management dell'Università di Bologna, anno accademico 2019-2020.
 
@@ -8,7 +7,7 @@ I contenuti di questo spazio che riguardano il progetto, sono:
 2. [Una descrizione delle componenti del sistema da sviluppare](docs/progetto.md)
 3. [Le informazioni sulle modalità di consegna dei materiali](docs/consegna.md)
 
-La versione `PDF` di questa documentazione è disponibile [a questo link del materiale](docs/tex/out/main.pdf).
+La versione `PDF` di questa documentazione è disponibile [a questo link](docs/tex/out/main.pdf).
 
 ### Getting Started
 
