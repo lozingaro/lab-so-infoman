@@ -1,6 +1,5 @@
 <<< [Torna indetro all'indice](../README.md)
 
-## Menu
 - [La documentazione](#la-documentazione)
   - [L'intestazione della Documentazione](#lintestazione-della-documentazione)
   - [Il corpo della Documentazione](#il-corpo-della-documentazione)
