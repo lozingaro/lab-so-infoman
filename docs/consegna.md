@@ -1,16 +1,14 @@
-[Torna indetro all'indice](../README.md)
+<<< [Torna indetro all'indice](../README.md)
 
-- [Specifiche per la consegna](#specifiche-per-la-consegna)
-  - [La documentazione](#la-documentazione)
-      - [L'intestazione della Documentazione](#lintestazione-della-documentazione)
-      - [Il corpo della Documentazione](#il-corpo-della-documentazione)
-    - [Griglia di Valutazione per la documentazione](#griglia-di-valutazione-per-la-documentazione)
-  - [L'implementazione del progetto](#limplementazione-del-progetto)
+## Menu
+- [La documentazione](#la-documentazione)
+  - [L'intestazione della Documentazione](#lintestazione-della-documentazione)
+  - [Il corpo della Documentazione](#il-corpo-della-documentazione)
+  - [Griglia di Valutazione per la documentazione](#griglia-di-valutazione-per-la-documentazione)
+- [L'implementazione del progetto](#limplementazione-del-progetto)
   - [La consegna dell'implementazione](#la-consegna-dellimplementazione)
-    - [Griglia di Valutazione per l'implementazione](#griglia-di-valutazione-per-limplementazione)
-  - [La dimostrazione (demo)](#la-dimostrazione-demo)
-
-# Specifiche per la consegna
+  - [Griglia di Valutazione per l'implementazione](#griglia-di-valutazione-per-limplementazione)
+- [La dimostrazione (demo)](#la-dimostrazione-demo)
 
 Globalmente, vengono consegnati due prodotti: la documentazione e l'implementazione (il codice sorgente) del progetto. 
 La valutazione finale avviene mediante una esame orale, nella quale vengono discusse le strategie con la quale i prodotti consegnati sono stati generati.
@@ -26,7 +24,7 @@ La documentazione ha lunghezza di **almeno** quattro o cinque pagine (quindi da 
 
 Di seguito viene riportato un esempio di documentazione con le principali caratteristiche da inserire.
 
-#### L'intestazione della Documentazione
+### L'intestazione della Documentazione
 
 - Laboratorio Sistemi Operativi A.A. 2019-2020
 - Nome del Gruppo
@@ -35,7 +33,7 @@ Di seguito viene riportato un esempio di documentazione con le principali caratt
   - Cognome, Nome, Matricola
   - ...
 
-#### Il corpo della Documentazione
+### Il corpo della Documentazione
 
 1. Descrizione generale del progetto
    1. Componenti del progetto
@@ -76,7 +74,7 @@ Il codice del progetto è contenuto in uno spazio in cloud del servizio online [
    - una volta che il progetto è stato creato, il referente aggiunge ogni membro del gruppo con `role permission` $>$ `Developer` andando su `Settings` $>$ `Members` nel menù a sinistra, cercandoli in base allo username con il quale questi si sono registrati su GitLab;
    - il referente aggiunge l'utente `stefanopiozingaro` con `role permission` $>$ `Reporter`.
 
-## La consegna dell'implementazione
+### La consegna dell'implementazione
 
 Al momento della consegna, il repository dovrà contenere i sorgenti del progetto e la relazione, nominata `REPORT_LSO.pdf`. 
 
