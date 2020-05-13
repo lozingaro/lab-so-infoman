@@ -1,3 +1,13 @@
+- [Specifiche per la consegna](#specifiche-per-la-consegna)
+  - [La documentazione](#la-documentazione)
+      - [L'intestazione della Documentazione](#lintestazione-della-documentazione)
+      - [Il corpo della Documentazione](#il-corpo-della-documentazione)
+    - [Griglia di Valutazione per la documentazione](#griglia-di-valutazione-per-la-documentazione)
+  - [L'implementazione del progetto](#limplementazione-del-progetto)
+  - [La consegna dell'implementazione](#la-consegna-dellimplementazione)
+    - [Griglia di Valutazione per l'implementazione](#griglia-di-valutazione-per-limplementazione)
+  - [La dimostrazione (demo)](#la-dimostrazione-demo)
+
 # Specifiche per la consegna
 
 Globalmente, vengono consegnati due prodotti: la documentazione e l'implementazione (il codice sorgente) del progetto. 

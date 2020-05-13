@@ -1,3 +1,8 @@
+- [Informazioni logistiche](#informazioni-logistiche)
+  - [Formazione dei gruppi](#formazione-dei-gruppi)
+  - [Calendario per la consegna](#calendario-per-la-consegna)
+  - [Calendario per l'esame orale](#calendario-per-lesame-orale)
+
 # Informazioni logistiche
 
 In questa sezione sono riportate le istruzioni sulla formazione dei gruppi.
@@ -18,7 +23,7 @@ Il messaggio deve essere inviato dalla mail istituzionale del referente del grup
 
 **N.B. è incarico del referente trasmettere le eventuali informazioni agli altri membri.**
 
-#### Email di esempio
+Email di esempio:
 
 | Campo | Testo |
 |-|-|
@@ -35,7 +40,7 @@ elettronica un messaggio con oggetto **CERCO GRUPPO LSO**, specificando:
 - Cognome, Nome, Matricola, Email;
 - Eventuali preferenze legate a tempi di lavoro (si cercherà di costituire gruppi di persone con tempi di lavoro compatibili, nel limite delle possibilità).
 
-### Email di esempio con oggetto \textbf{CERCO GRUPPO LSO}]
+Email di esempio:
 
 | Campo | Testo |
 |-|-|
