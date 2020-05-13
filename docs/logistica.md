@@ -51,8 +51,8 @@ Le persone senza un gruppo vengono assegnate il prima possibile senza possibilit
 ## Calendario per la consegna
 Le date a disposizione per la consegna dell'implementazione e del report, sono:
 
-- le 23.59.59 di **Lunedí 27 Luglio 2020**;
-- le 23.59.59 di **Lunedí 28 Settembre 2020**.
+- le 23.59.59 di **Lunedí 27 Luglio 2020** (CEST)
+- le 23.59.59 di **Lunedí 28 Settembre 2020** (CEST)
 
 La data presa in considerazione per la consegna della parte di implementazione sarà quella di creazione del **Tag** su [GitLab](https://gitlab.com) le istruzioni sulla consegna si trovano nelle [specifiche per la consegna](consegna.md). 
 
