@@ -1,9 +1,6 @@
-- [Informazioni logistiche](#informazioni-logistiche)
-  - [Formazione dei gruppi](#formazione-dei-gruppi)
-  - [Calendario per la consegna](#calendario-per-la-consegna)
-  - [Calendario per l'esame orale](#calendario-per-lesame-orale)
-
-# Informazioni logistiche
+- [Formazione dei gruppi](#formazione-dei-gruppi)
+- [Calendario per la consegna](#calendario-per-la-consegna)
+- [Calendario per l'esame orale](#calendario-per-lesame-orale)
 
 In questa sezione sono riportate le istruzioni sulla formazione dei gruppi.
 Viene inoltre proposto un calendario per la consegna dell'implementazione e del report.
