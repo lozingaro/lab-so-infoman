@@ -9,6 +9,11 @@ I contenuti di questo spazio che riguardano il progetto, sono:
 
 La versione `PDF` di questa documentazione è disponibile [a questo link](docs/main.pdf).
 
+### Gruppi
+
+La registrazione dei gruppi completi, che deve essere completata **entro il 31 Maggio**, può essere monitorata attraverso [la pagina dedicata](docs/group.md).
+Allo stesso indirizzo, per coloro che sono alla ricerca di un gruppo, si possono trovare informazioni di contatto per i referenti e visionare il numero di persone per ogni gruppo esistente.
+
 ### Getting Started
 
 In generale, non è necessario usare il contenuto ma solo leggerne le informazioni. 
