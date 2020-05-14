@@ -10,7 +10,7 @@
 - [La dimostrazione (demo)](#la-dimostrazione-demo)
 
 Globalmente, vengono consegnati due prodotti: la documentazione e l'implementazione (il codice sorgente) del progetto. 
-La valutazione finale avviene mediante una esame orale, nella quale vengono discusse le strategie con la quale i prodotti consegnati sono stati generati.
+La valutazione finale avviene mediante un esame orale, nella quale vengono discusse le strategie con la quale i prodotti consegnati sono stati generati.
 Le domande saranno rivolte a tutti i partecipanti al gruppo, i quali potranno scegliere l'esposizione organizzata dei contenuti.
 
 - non si accettano richieste di eccezioni sui progetti con motivazioni legate a esigenze di laurearsi
