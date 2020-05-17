@@ -1,3 +1,9 @@
+|JOLIEGRAM|4|
+|[Alessio Cocchieri](mailto:alessio.cocchieri2@studio.unibo.it)|881647|
+|Riccardo Grassi|889391|
+|Gianmarco Carriero|889194|
+|Fabio Perda|899338|
+
 |ISynchronized|5|
 |:-|-:|
 |Bello Giuseppe|882051|
