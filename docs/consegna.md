@@ -71,7 +71,7 @@ Il codice del progetto è contenuto in uno spazio in cloud del servizio online [
 1. Ogni membro del gruppo [crea un account su GitLab o accede con le proprie credenziali](https://gitlab.com/users/sign_in)
 2. Il **referente del gruppo** crea un nuovo progetto cliccando sul bottone **+** in alto a destra nella schermata principale di GitLab, inserendo `LabSO_NomeGruppo` come nome del progetto e cliccando su **New Project**
    - una volta che il progetto è stato creato, il referente aggiunge ogni membro del gruppo con `role permission` $>$ `Developer` andando su `Settings` $>$ `Members` nel menù a sinistra, cercandoli in base allo username con il quale questi si sono registrati su GitLab;
-   - il referente aggiunge l'utente `stefanopiozingaro` con `role permission` $>$ `Reporter`.
+   - il referente aggiunge l'utente [`pio_zingaro`](https://gitlab.com/pio_zingaro) con `role permission` $>$ `Reporter`.
 
 ### La consegna dell'implementazione
 
