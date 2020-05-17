@@ -1,4 +1,12 @@
+|J-mail|4|
+|:-|-:|
+|[Conte Vittoria](mailto:vittoria.conte@studio.unibo.it)|0000788822|
+|Maiani Kevin|0000821860|
+|Rubini Gabriele|0000800895|
+|Ruschi Nicola|0000765869|
+
 |JOLIEGRAM|4|
+|:-|-:|
 |[Alessio Cocchieri](mailto:alessio.cocchieri2@studio.unibo.it)|881647|
 |Riccardo Grassi|889391|
 |Gianmarco Carriero|889194|
