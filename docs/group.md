@@ -1,4 +1,13 @@
-|Un Jolie Peer amico||
+|Jolteon|4|
+|:-|-:|
+|Cinelli Nicolò|852882|
+|[Asperti Andrea](mailto:andrea.asperti2@studio.unibo.it)|840985|
+|Piombini Davide|839936|
+|Alessi Nicola|843983|
+ 
+---
+
+|Un Jolie Peer amico|5|
 |:-|-:|
 |Ancarani Elisa|892755 |
 |Bruno Tiziano|883120|
@@ -8,7 +17,7 @@
 
 ---
 
-|POWER RANGERS||
+|POWER RANGERS|5|
 |:-|-:|
 |Armani Luca|0000896364|
 |[Di Vaio Gianluigi](gianluigi.divaio@studio.unibo.it)|0000900872|
