@@ -6,8 +6,6 @@
 |Jlassi Sabrina|880081|
 |Tavi Federico|881486|
 
----
-
 |JMessage|4|
 |:-|-:|
 |Culmone Ausilia|0000900532|
@@ -15,16 +13,12 @@
 |[Mone Madalina Ionela](mailto:madalina.mone@studio.unibo.it)|0000889405|
 |Sarti Maela|0000901487|
 
----
-
 |Jolteon|4|
 |:-|-:|
 |Cinelli Nicolò|852882|
 |[Asperti Andrea](mailto:andrea.asperti2@studio.unibo.it)|840985|
 |Piombini Davide|839936|
 |Alessi Nicola|843983|
- 
----
 
 |Un Jolie Peer amico|5|
 |:-|-:|
@@ -33,8 +27,6 @@
 |Carnevali Marco|873405|
 |Castelli Giorgia|873787|
 |[Pisanò Lorenzo](mailto:lorenzo.pisano@studio.unibo.it)|900590|
-
----
 
 |POWER RANGERS|5|
 |:-|-:|
