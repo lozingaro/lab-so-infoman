@@ -1,3 +1,12 @@
+|JMessage|4|
+|:-|-:|
+|Culmone Ausilia|0000900532|
+|Lupatelli Filippo|0000893381|
+|[Mone Madalina Ionela](madalina.mone@studio.unibo.it)|0000889405|
+|Sarti Maela|0000901487|
+
+---
+
 |Jolteon|4|
 |:-|-:|
 |Cinelli Nicolò|852882|
