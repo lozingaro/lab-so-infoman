@@ -1,8 +1,18 @@
+|ISynchronized|5|
+|:-|-:|
+|Bello Giuseppe|882051|
+|[Ciardi Francesco](mailto:francesco.ciardi@studio.unibo.it)|900524|
+|Deana Alessia|875126|
+|Jlassi Sabrina|880081|
+|Tavi Federico|881486|
+
+---
+
 |JMessage|4|
 |:-|-:|
 |Culmone Ausilia|0000900532|
 |Lupatelli Filippo|0000893381|
-|[Mone Madalina Ionela](madalina.mone@studio.unibo.it)|0000889405|
+|[Mone Madalina Ionela](mailto:madalina.mone@studio.unibo.it)|0000889405|
 |Sarti Maela|0000901487|
 
 ---
@@ -29,7 +39,7 @@
 |POWER RANGERS|5|
 |:-|-:|
 |Armani Luca|0000896364|
-|[Di Vaio Gianluigi](gianluigi.divaio@studio.unibo.it)|0000900872|
+|[Di Vaio Gianluigi](mailto:gianluigi.divaio@studio.unibo.it)|0000900872|
 |Jiang Valerio|000088994|
 |Russo Serena|0000900899|
 |Segalini Lorenzo|0000874653|
