@@ -1,3 +1,10 @@
+|Jol-App|4|
+|:-|-:|
+|Bolognesi Filippo|838332|
+[Bombardini Ilaria](mailto:ilaria.bombardini@studio.unibo.it)|840181|
+|Miftari Erdisona|838345|
+|Kathleen Anne Velasco|840127|
+
 |Jomanji|5|
 |:-|-:|
 |[Fantini Omar](omar.fantini@studio.unibo.it)|840120|
