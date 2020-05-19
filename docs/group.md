@@ -1,9 +1,25 @@
+|Jomanji|5|
+|:-|-:|
+|[Fantini Omar](omar.fantini@studio.unibo.it)|840120|
+|Lazar Andreea Florina|889375|
+|Sacchetti Giacomo|892855|
+|Stefani Flavio|883331|
+|Tabanelli Simone|890230|
+ 
+|Gli amici di Jolie|5|
+|:-|-:|
+|Pesci Paolo|806580|
+|[Ginese Fabrizio](mailto:fabrizio.ginese@studio.unibo.it)|766150|
+|Bellettini Mattia|753920|
+|Vocale Valerio|794178|
+|Ceglia Giovanni|792440|
+
 |J-mail|4|
 |:-|-:|
-|[Conte Vittoria](mailto:vittoria.conte@studio.unibo.it)|0000788822|
-|Maiani Kevin|0000821860|
-|Rubini Gabriele|0000800895|
-|Ruschi Nicola|0000765869|
+|[Conte Vittoria](mailto:vittoria.conte@studio.unibo.it)|788822|
+|Maiani Kevin|821860|
+|Rubini Gabriele|800895|
+|Ruschi Nicola|765869|
 
 |JOLIEGRAM|4|
 |:-|-:|
@@ -22,10 +38,10 @@
 
 |JMessage|4|
 |:-|-:|
-|Culmone Ausilia|0000900532|
-|Lupatelli Filippo|0000893381|
-|[Mone Madalina Ionela](mailto:madalina.mone@studio.unibo.it)|0000889405|
-|Sarti Maela|0000901487|
+|Culmone Ausilia|900532|
+|Lupatelli Filippo|893381|
+|[Mone Madalina Ionela](mailto:madalina.mone@studio.unibo.it)|889405|
+|Sarti Maela|901487|
 
 |Jolteon|4|
 |:-|-:|
@@ -44,8 +60,8 @@
 
 |POWER RANGERS|5|
 |:-|-:|
-|Armani Luca|0000896364|
-|[Di Vaio Gianluigi](mailto:gianluigi.divaio@studio.unibo.it)|0000900872|
-|Jiang Valerio|000088994|
-|Russo Serena|0000900899|
-|Segalini Lorenzo|0000874653|
+|Armani Luca|896364|
+|[Di Vaio Gianluigi](mailto:gianluigi.divaio@studio.unibo.it)|900872|
+|Jiang Valerio|88994|
+|Russo Serena|900899|
+|Segalini Lorenzo|874653|
