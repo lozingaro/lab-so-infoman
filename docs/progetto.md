@@ -1,4 +1,4 @@
-<<< [Torna indetro all'indice](../README.md)
+<< [Torna indetro all'indice](../README.md)
 
 - [L'architettura decentralizzata peer-to-peer](#larchitettura-decentralizzata-peer-to-peer)
 - [Pubblicazione e scrittura dei messaggi](#pubblicazione-e-scrittura-dei-messaggi)
