@@ -19,8 +19,10 @@ I servizi richiedono operazioni esposte da altri servizi attraverso delle opport
 
 Per permettere ai _peer_ di scambiarsi messaggi abbiamo bisogno che ognuno di essi esponga una serie di operazioni per:
 - registrarsi alla rete presso un altro _peer_ ed ottenere così un identificativo - uno _pseudonimo_
-- scrivere un messaggio in un file locale
+- scrivere un messaggio in un file locale 
 - pubblicare un messaggio per un altro/altri _peer_
+
+**ATTENZIONE - creare un sistema di persistenza dei messaggi (sia quelli privati che quelli pubblici) è un requisito obbligatorio per il progetto**, per maggiori informazioni sulle possibilità di abilitare la persistenza [leggere l'articolo di wikipedia (link alla versione italiana, anche se più completa quella inglese)](https://it.wikipedia.org/wiki/Persistenza_(informatica)).
 
 ## Pubblicazione e scrittura dei messaggi
 Implementare un sistema di messaggistica istantanea  tra nodi di una rete può essere affrontato in molti modi diversi.
