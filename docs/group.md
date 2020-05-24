@@ -1,3 +1,26 @@
+|Johnny|5|
+|:-|-:|
+|Davide Fermi|873948|
+|Anthony Cazzola|882550|
+|Matteo Sacco|873823|
+|Emanuele La Terra|889655|
+|[Roberto Tabaroni](mailto:roberto.tabaroni@studio.unibo.it)|874456|
+
+|AMACAp2p|5|
+|:-|-:|
+|Arcara Alessio|<span style="color:RGBA(255,0,0,1);">0900061028</span>|
+|Borghesi Andrea|874412|
+|[Carchesio Michael](mailto:michael.carchesio@studio.unibo.it)|889083|
+|Crimaldi Alessia|883306|
+|Tagani Chiara|893990|
+
+|Jolly|4|
+|:-|-:|
+|[Dal Pian Marco](mailto:marco.dalpian@studio.unibo.it)|892947|
+|Forieri Elena|880637|
+|Cassanelli Alice|838470| 
+|Vergara Alessandro|801381|
+
 |Jol-App|4|
 |:-|-:|
 |Bolognesi Filippo|838332|
