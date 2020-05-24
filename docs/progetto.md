@@ -1,4 +1,4 @@
-<< [Torna indetro all'indice](../README.md)
+<< [Torna indietro all'indice](../README.md)
 
 - [L'architettura decentralizzata peer-to-peer](#larchitettura-decentralizzata-peer-to-peer)
 - [Pubblicazione e scrittura dei messaggi](#pubblicazione-e-scrittura-dei-messaggi)
@@ -23,6 +23,24 @@ Per permettere ai _peer_ di scambiarsi messaggi abbiamo bisogno che ognuno di es
 - pubblicare un messaggio per un altro/altri _peer_
 
 **ATTENZIONE - creare un sistema di persistenza dei messaggi (sia quelli privati che quelli pubblici) è un requisito obbligatorio per il progetto**, per maggiori informazioni sulle possibilità di abilitare la persistenza [leggere l'articolo di wikipedia (link alla versione italiana, anche se più completa quella inglese)](https://it.wikipedia.org/wiki/Persistenza_(informatica)).
+
+### Peer-to-Peer Computing 
+Il seguente estratto è preso dal libro di testo del corso "Operating System Concepts" di A. Silbershatz, Decima Edizione (in Inglese).
+La traduzione è stata effettuata in automatico con il software [DeepL Translator](https://www.deepl.com/translator).
+
+> Un'altra struttura per un sistema distribuito è il modello di sistema peer-to-peer (P2P). In questo modello, i client e i server non si distinguono l'uno dall'altro. Invece, tutti i nodi all'interno del sistema sono considerati peer, e ciascuno può agire sia come client che come server, a seconda che richieda o fornisca un servizio. I sistemi peer-to-peer offrono un vantaggio rispetto ai sistemi tradizionali client - server. In un sistema client - server, il server è un collo di bottiglia; ma in un sistema peer-to-peer, i servizi possono essere forniti da diversi nodi distribuiti in tutta la rete.
+
+> Per partecipare ad un sistema peer-to-peer, un nodo deve prima entrare a far parte della rete di peer. Una volta che un nodo si è unito alla rete, può iniziare a fornire servizi ad altri nodi della rete e a richiedere servizi ad altri nodi della rete. La determinazione di quali servizi sono disponibili si realizza in uno dei due modi generali:
+
+> - Quando un nodo entra in una rete, registra il suo servizio con un servizio di ricerca centralizzato sulla rete. Ogni nodo che desidera un servizio specifico contatta prima questo servizio di ricerca centralizzato per determinare quale nodo fornisce il servizio. Il resto della comunicazione avviene tra il cliente e il fornitore del servizio.
+
+> - Uno schema alternativo non utilizza un servizio di ricerca centralizzato. Invece, un peer che agisce come cliente deve scoprire quale nodo fornisce il servizio desiderato trasmettendo una richiesta di servizio a tutti gli altri nodi della rete. Il nodo (o i nodi) che fornisce quel servizio risponde al peer che fa la richiesta. A supporto di questo approccio, deve essere previsto un protocollo di discovery che permetta ai peer di scoprire i servizi forniti da altri peer della rete. La Figura 1.23 illustra tale scenario.
+
+![Figura 1.23](assets/img/p2p.png)
+
+> Le reti peer-to-peer hanno acquisito un'ampia popolarità alla fine degli anni '90 con diversi servizi di file sharing, come Napster e Gnutella, che hanno permesso ai peer di scambiarsi file tra loro. Il sistema Napster utilizzava un approccio simi- laro al primo tipo descritto sopra: un server centralizzato manteneva un indice di tutti i file memorizzati sui nodi peer nella rete Napster, e l'effettivo scambio di file avveniva tra i nodi peer. Il sistema Gnutella utilizzava una tecnica simile al secondo tipo: un client trasmetteva le richieste di file ad altri nodi del sistema, e i nodi che potevano servire la richiesta rispondevano direttamente al client. Le reti peer-to-peer possono essere utilizzate per scambiare in forma anonima i rials (ad esempio, la musica) protetti da copyright, e ci sono leggi che regolano la distribuzione di materiale protetto da copyright. In particolare, Napster ha avuto problemi legali per violazione del copyright e i suoi servizi sono stati chiusi nel 2001. Per questo motivo, il futuro dello scambio di file rimane incerto.
+
+> Skype è un altro esempio di peer-to-peer computing. Esso consente ai clienti di effettuare chiamate vocali e videochiamate e di inviare messaggi di testo su Internet utilizzando una tecnologia nota come voice over IP (VoIP). Skype utilizza un approccio ibrido peer-to-peer. Comprende un server di login centralizzato, ma incorpora anche peers decentralizzati e permette a due peer di comunicare tra loro.
 
 ## Pubblicazione e scrittura dei messaggi
 Implementare un sistema di messaggistica istantanea  tra nodi di una rete può essere affrontato in molti modi diversi.
