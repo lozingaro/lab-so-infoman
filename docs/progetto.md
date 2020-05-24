@@ -36,7 +36,7 @@ La traduzione è stata effettuata in automatico con il software [DeepL Translato
 
 > - Uno schema alternativo non utilizza un servizio di ricerca centralizzato. Invece, un peer che agisce come cliente deve scoprire quale nodo fornisce il servizio desiderato trasmettendo una richiesta di servizio a tutti gli altri nodi della rete. Il nodo (o i nodi) che fornisce quel servizio risponde al peer che fa la richiesta. A supporto di questo approccio, deve essere previsto un protocollo di discovery che permetta ai peer di scoprire i servizi forniti da altri peer della rete. La Figura 1.23 illustra tale scenario.
 
-![Figura 1.23](assets/img/p2p.png)
+![Figura 1.23](assets/p2p.png)
 
 > Le reti peer-to-peer hanno acquisito un'ampia popolarità alla fine degli anni '90 con diversi servizi di file sharing, come Napster e Gnutella, che hanno permesso ai peer di scambiarsi file tra loro. Il sistema Napster utilizzava un approccio simi- laro al primo tipo descritto sopra: un server centralizzato manteneva un indice di tutti i file memorizzati sui nodi peer nella rete Napster, e l'effettivo scambio di file avveniva tra i nodi peer. Il sistema Gnutella utilizzava una tecnica simile al secondo tipo: un client trasmetteva le richieste di file ad altri nodi del sistema, e i nodi che potevano servire la richiesta rispondevano direttamente al client. Le reti peer-to-peer possono essere utilizzate per scambiare in forma anonima i rials (ad esempio, la musica) protetti da copyright, e ci sono leggi che regolano la distribuzione di materiale protetto da copyright. In particolare, Napster ha avuto problemi legali per violazione del copyright e i suoi servizi sono stati chiusi nel 2001. Per questo motivo, il futuro dello scambio di file rimane incerto.
 
