@@ -1,4 +1,4 @@
-<< [Torna indetro all'indice](../README.md)
+<< [Torna indietro all'indice](../README.md)
 
 - [La documentazione](#la-documentazione)
   - [L'intestazione della Documentazione](#lintestazione-della-documentazione)
