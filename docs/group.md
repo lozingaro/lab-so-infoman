@@ -1,4 +1,6 @@
-|<span style="text-color:RGBA(255,0,0,1)">Johnny</span>|5|
+**ATTENZIONE!** <span style="color:RGBA(255,0,0,1)">se il vostro gruppo compare in rosso significa che non avete aggiunto come <code>Reporter</code> l'utente <code>spz</code></span>.
+
+|<span style="color:RGBA(255,0,0,1)">Johnny</span>|5|
 |:-|-:|
 |Davide Fermi|873948|
 |Anthony Cazzola|882550|
@@ -6,7 +8,7 @@
 |Emanuele La Terra|889655|
 |[Roberto Tabaroni](mailto:roberto.tabaroni@studio.unibo.it)|874456|
 
-|<span style="text-color:RGBA(255,0,0,1)">AMACAp2p</span>|5|
+|<span style="color:RGBA(255,0,0,1)">AMACAp2p</span>|5|
 |:-|-:|
 |Arcara Alessio|0900061028|
 |Borghesi Andrea|874412|
@@ -14,7 +16,7 @@
 |Crimaldi Alessia|883306|
 |Tagani Chiara|893990|
 
-|<span style="text-color:RGBA(255,0,0,1)">Jolly</span>|4|
+|<span style="color:RGBA(255,0,0,1)">Jolly</span>|4|
 |:-|-:|
 |[Dal Pian Marco](mailto:marco.dalpian@studio.unibo.it)|892947|
 |Forieri Elena|880637|
@@ -28,7 +30,7 @@
 |Miftari Erdisona|838345|
 |Kathleen Anne Velasco|840127|
 
-|<span style="text-color:RGBA(255,0,0,1)">Jomanji</span>|5|
+|<span style="color:RGBA(255,0,0,1)">Jomanji</span>|5|
 |:-|-:|
 |[Fantini Omar](omar.fantini@studio.unibo.it)|840120|
 |Lazar Andreea Florina|889375|
