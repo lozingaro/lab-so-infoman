@@ -1,4 +1,4 @@
-|Johnny|5|
+|<span style="text-color:RGBA(255,0,0,1)">Johnny</span>|5|
 |:-|-:|
 |Davide Fermi|873948|
 |Anthony Cazzola|882550|
@@ -6,15 +6,15 @@
 |Emanuele La Terra|889655|
 |[Roberto Tabaroni](mailto:roberto.tabaroni@studio.unibo.it)|874456|
 
-|AMACAp2p|5|
+|<span style="text-color:RGBA(255,0,0,1)">AMACAp2p</span>|5|
 |:-|-:|
-|Arcara Alessio|<span style="color:RGBA(255,0,0,1);">0900061028</span>|
+|Arcara Alessio|0900061028|
 |Borghesi Andrea|874412|
 |[Carchesio Michael](mailto:michael.carchesio@studio.unibo.it)|889083|
 |Crimaldi Alessia|883306|
 |Tagani Chiara|893990|
 
-|Jolly|4|
+|<span style="text-color:RGBA(255,0,0,1)">Jolly</span>|4|
 |:-|-:|
 |[Dal Pian Marco](mailto:marco.dalpian@studio.unibo.it)|892947|
 |Forieri Elena|880637|
@@ -28,7 +28,7 @@
 |Miftari Erdisona|838345|
 |Kathleen Anne Velasco|840127|
 
-|Jomanji|5|
+|<span style="text-color:RGBA(255,0,0,1)">Jomanji</span>|5|
 |:-|-:|
 |[Fantini Omar](omar.fantini@studio.unibo.it)|840120|
 |Lazar Andreea Florina|889375|
