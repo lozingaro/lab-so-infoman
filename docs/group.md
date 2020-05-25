@@ -1,4 +1,4 @@
-**ATTENZIONE!** <span style="color:RGBA(255,0,0,1)">se il vostro gruppo compare in rosso significa che non avete aggiunto come <code>Reporter</code> l'utente <code>spz</code></span>.
+**ATTENZIONE**, <span style="color:RGBA(255,0,0,1)">se il vostro gruppo compare in rosso significa che non avete aggiunto come <code>Reporter</code> l'utente <code>spz</code></span>.
 
 |<span style="color:RGBA(255,0,0,1)">Johnny</span>|5|
 |:-|-:|
