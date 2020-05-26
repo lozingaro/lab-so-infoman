@@ -1,5 +1,12 @@
 **ATTENZIONE**, <span style="color:RGBA(255,0,0,1)">se il vostro gruppo compare in rosso significa che non avete aggiunto come <code>Reporter</code> l'utente <code>spz</code></span>.
 
+|<span style="color:RGBA(255,0,0,1)">romeoejolietta</span>|4|
+|:-|-:|
+|[Pasi Alessandro](mailto:alessandro.pasi6@studio.unibo.it)|893268|
+|Carboni Carlotta|893185|
+|Palmieri Luca|839445|
+|Alsina Gabriel|890823|
+
 |<span style="color:RGBA(255,0,0,1)">Johnny</span>|5|
 |:-|-:|
 |Davide Fermi|873948|
