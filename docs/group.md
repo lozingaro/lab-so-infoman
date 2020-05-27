@@ -1,5 +1,20 @@
 **ATTENZIONE**, <span style="color:RGBA(255,0,0,1)">se il vostro gruppo compare in rosso significa che non avete aggiunto come <code>Reporter</code> l'utente <code>spz</code></span>.
 
+|AngelinaJolie|4|
+|:-|-:|
+|Salcuni Giuseppe Pio|892800|
+|Di Girolamo Michael|900567|
+|Lolli Samuele|890835|
+|[Becchi Giulio](mailto:giulio.becchi@studio.unibo.it)|906200|
+
+|Pasta e Fajolie|5|
+|:-|-:|
+|Andrea Accornero|881120|
+|[Lorenzo Battisti](mailto:giacomo.orsi2@studio.unibo.it)|874002|
+|Riccardo Nassisi|889867|
+|Giacomo Orsi|875105|
+|Nicolò Sguerso|881280|
+
 |<span style="color:RGBA(255,0,0,1)">romeoejolietta</span>|4|
 |:-|-:|
 |[Pasi Alessandro](mailto:alessandro.pasi6@studio.unibo.it)|893268|
