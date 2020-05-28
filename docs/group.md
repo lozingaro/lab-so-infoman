@@ -1,5 +1,19 @@
 **ATTENZIONE**, <span style="color:RGBA(255,0,0,1)">se il vostro gruppo compare in rosso significa che non avete aggiunto come <code>Reporter</code> l'utente <code>spz</code></span>.
 
+|MAI UNA JOLIE|4|
+|:-|-:|
+|[Marchetti Luca](luca.marchetti11@studio.unibo.it)|693873|
+|Daniele Gerardo|801570|
+|Natale Giovanni|801188|
+|Calin Beatrice Andreea|839622|
+
+|JolieatoAllaCrema|4|
+|:-|-:|
+|[Alesssandro Frisicaro](mailto:alessandro.frisicaro@studio.unibo.it)|843562|
+|Beatrice Guaraldi|839841|
+|Federica Longo|839538|
+|Giuseppe Iannone|853015|
+ 
 |AngelinaJolie|4|
 |:-|-:|
 |Salcuni Giuseppe Pio|892800|
