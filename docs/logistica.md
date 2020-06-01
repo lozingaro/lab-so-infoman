@@ -26,8 +26,8 @@ Di seguito riportiamo il corpo della **mail** con **oggetto** _GRUPPO LSO_.
 ```
 | NOME_GRUPPO | NUMERO_COMPONENTI |
 |:-|-:|
-| [Nome Referente](mailto:nome.referente@studio.unibo.it) | 234567 |
-| Nome Componente | 345678 |
+| [Nome Referente](mailto:nome.referente@studio.unibo.it) | matricola |
+| Nome Componente | matricola |
 ```
 
 Chi non riuscisse a trovare un gruppo invia allo stesso indirizzo di posta elettronica un messaggio con oggetto **CERCO GRUPPO LSO**, specificando:
