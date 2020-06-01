@@ -1,6 +1,68 @@
 **ATTENZIONE**, <span style="color:RGBA(255,0,0,1)">se il vostro gruppo compare in rosso significa che non avete aggiunto come <code>Reporter</code> l'utente <code>spz</code></span>.
 
-|Jollybee|5|
+
+|<span style="color:RGBA(255,0,0,1)">Le bizzarre avventure di jolie</span>|4|
+|:-|-:|
+|Andriani Elisa|801655|
+|[Capitanelli Marco](mailto:marco.capitanelli@studio.unibo.it)|807650|
+|Reginelli Diego|808046|
+|Vasile Davide|890086|
+
+|<span style="color:RGBA(255,0,0,1)">Brodo di giugjolie</span>|5|
+|:-|-:|
+|[Havie Hoxha](mailto:havie.hoxha@studio.unibo.it)|881864|
+|Sara Fioravanti|794254|
+|Alessia Petrillo|880645|
+|Riccardo Iattoni|842277|
+|Alberto Margheriti|901957|
+
+|<span style="color:RGBA(255,0,0,1)">JolieTubbies</span>|5|
+|:-|-:| 
+|[Aprile Alessandro Santo](mailto:alessandro.aprile2@studio.unibo.it)|841333|
+|Bertazzoni Matilde|900629|
+|Franceschiello Carolina|901222|
+|Lo Bue Sabrina|881812|
+|Caputo Andrea|843838|
+
+|<span style="color:RGBA(255,0,0,1)">SO(S)</span>|5|
+|Michela Iamonaco|892889|
+|[Sofia Bergamini](mailto:sofia.bergamini@studio.unibo.it)|874352|
+|Michele Colucci|901237|
+|Matteo Baccilieri|893715|
+|Valentina Sant|906167|
+ 
+|JoChat|5|
+|:-|-:|
+|[Jason Shuyinta](mailto:jasonleeyon.shuyinta@studio.unibo.it)|831193|
+|Giovanni Vitale|838588|
+|Keran Jegasothy|839151|
+|Tulak Mozammel|843747|
+|Hajar Berdouzi|815037|
+
+|<span style="color:RGBA(255,0,0,1)">Jollybee</span>|5|
+|:-|-:|
+|[Lisurici Luca](mailto:luca.lisurici@studio.unibo.it)|900627|
+|Modelli Alessandro|894028|
+|Shin Vladislav|901291|
+|Noman Sohag|892871|
+|Makani Belbeni|892745|
+
+|Visualizza quel Jolie|5|
+|:-|-:|
+|[Geralda Nushi](mailto:geralda.nushi@studio.unibo.it)|836164|
+|Alex Pistocchi|843885|
+|Eugenio  Ricca|839739|
+|Alba Shehi|838866|
+|Alessia Vasalluccio|841494|
+
+|Whatsup|4|
+|:-|-:|
+|Zecchin Dario|882583|
+|[Linari Luca](mailto:luca.linari2@studio.unibo.it)|900644|
+|Di matteo Carlo|890216|
+|Rossi Alessandro|874901|
+
+|<span style="color:RGBA(255,0,0,1)">Jollybee</span>|5|
 |:-|-:|
 |[Lisurici Luca](mailto:luca.lisurici@studio.unibo.it)|900627|
 |Modelli Alessandro|894028|
@@ -23,7 +85,7 @@
 |Natale Giovanni|801188|
 |Calin Beatrice Andreea|839622|
 
-|JolieatoAllaCrema|4|
+|<span style="color:RGBA(255,0,0,1)">JolieatoAllaCrema</span>|4|
 |:-|-:|
 |[Alesssandro Frisicaro](mailto:alessandro.frisicaro@studio.unibo.it)|843562|
 |Beatrice Guaraldi|839841|
@@ -45,14 +107,14 @@
 |Giacomo Orsi|875105|
 |Nicolò Sguerso|881280|
 
-|<span style="color:RGBA(255,0,0,1)">romeoejolietta</span>|4|
+|romeoejolietta|4|
 |:-|-:|
 |[Pasi Alessandro](mailto:alessandro.pasi6@studio.unibo.it)|893268|
 |Carboni Carlotta|893185|
 |Palmieri Luca|839445|
 |Alsina Gabriel|890823|
 
-|<span style="color:RGBA(255,0,0,1)">Johnny</span>|5|
+|Johnny|5|
 |:-|-:|
 |Davide Fermi|873948|
 |Anthony Cazzola|882550|
