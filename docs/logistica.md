@@ -23,15 +23,14 @@ Il messaggio deve essere inviato dalla propria mail istituzionale `@studio.unibo
 
 _**Email di esempio**_
 
-| Campo | Testo |
-|-|-|
-| Oggetto: | GRUPPO LSO |
-| Nome Gruppo: | NOME MOLTO BELLO |
-| Componenti: | Annio Ennio, 123456 |
-| | Sinalefe Pina, 234567 |
-| | Pannocchia Anna, 345678 |
-| | ... |
-| Mail Referente: | anna.pannocchia@studio.unibo.it |
+**Oggetto**: GRUPPO LSO
+
+```
+| NOME_GRUPPO | NUMERO_COMPONENTI |
+|:-|-:|
+| [Nome Referente](mailto:nome.referente@studio.unibo.it) | 234567 |
+| Nome Componente | 345678 |
+```
 
 Chi non riuscisse a trovare un gruppo invia allo stesso indirizzo di posta elettronica un messaggio con oggetto **CERCO GRUPPO LSO**, specificando:
 
