@@ -21,9 +21,7 @@ Il messaggio deve essere inviato dalla propria mail istituzionale `@studio.unibo
 
 **N.B. è incarico del referente trasmettere le eventuali informazioni agli altri membri.**
 
-_**Email di esempio**_
-
-**Oggetto**: GRUPPO LSO
+Di seguito riportiamo il corpo della **mail** con **oggetto** _GRUPPO LSO_.
 
 ```
 | NOME_GRUPPO | NUMERO_COMPONENTI |
