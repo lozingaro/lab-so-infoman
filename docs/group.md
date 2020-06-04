@@ -1,7 +1,7 @@
 **ATTENZIONE**, <span style="color:RGBA(255,0,0,1)">se il vostro gruppo compare in rosso significa che non avete aggiunto come <code>Reporter</code> l'utente <code>spz</code></span>.
 
 
-|<span style="color:RGBA(255,0,0,1)">Le bizzarre avventure di jolie</span>|4|
+|Le bizzarre avventure di jolie|4|
 |:-|-:|
 |Andriani Elisa|801655|
 |[Capitanelli Marco](mailto:marco.capitanelli@studio.unibo.it)|807650|
@@ -47,28 +47,12 @@
 |Noman Sohag|892871|
 |Makani Belbeni|892745|
 
-|Visualizza quel Jolie|5|
-|:-|-:|
-|[Geralda Nushi](mailto:geralda.nushi@studio.unibo.it)|836164|
-|Alex Pistocchi|843885|
-|Eugenio  Ricca|839739|
-|Alba Shehi|838866|
-|Alessia Vasalluccio|841494|
-
 |Whatsup|4|
 |:-|-:|
 |Zecchin Dario|882583|
 |[Linari Luca](mailto:luca.linari2@studio.unibo.it)|900644|
 |Di matteo Carlo|890216|
 |Rossi Alessandro|874901|
-
-|<span style="color:RGBA(255,0,0,1)">Jollybee</span>|5|
-|:-|-:|
-|[Lisurici Luca](mailto:luca.lisurici@studio.unibo.it)|900627|
-|Modelli Alessandro|894028|
-|Shin Vladislav|901291|
-|Noman Sohag|892871|
-|Makani Belbeni|892745|
 
 |Visualizza quel Jolie|5|
 |:-|-:|
