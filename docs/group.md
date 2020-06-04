@@ -25,6 +25,7 @@
 |Caputo Andrea|843838|
 
 |<span style="color:RGBA(255,0,0,1)">SO(S)</span>|5|
+|:-|-:|
 |Michela Iamonaco|892889|
 |[Sofia Bergamini](mailto:sofia.bergamini@studio.unibo.it)|874352|
 |Michele Colucci|901237|
