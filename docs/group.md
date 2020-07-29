@@ -107,7 +107,7 @@
 |Emanuele La Terra|889655|
 |[Roberto Tabaroni](mailto:roberto.tabaroni@studio.unibo.it)|874456|
 
-|<span style="color:RGBA(255,0,0,1)">AMACAp2p</span>|5|
+|AMACAp2p|5|
 |:-|-:|
 |Arcara Alessio|0900061028|
 |Borghesi Andrea|874412|
